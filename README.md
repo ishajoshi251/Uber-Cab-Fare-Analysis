@@ -38,4 +38,14 @@ The project utilizes the following Python libraries:
 - Seaborn
 - scikit-learn
 
+## Project Screenshots
+
+Check out some screenshots showcasing different aspects of project:
+![1](https://github.com/ishajoshi251/Uber-Cab-Fare-Analysis/assets/94818351/6c05a46c-ce85-4a10-a4be-015423b8c50a)
+![2](https://github.com/ishajoshi251/Uber-Cab-Fare-Analysis/assets/94818351/687eb824-14e4-418d-b015-706553523957)
+![3](https://github.com/ishajoshi251/Uber-Cab-Fare-Analysis/assets/94818351/71abc9fc-ace1-40f3-82e4-c42a44344307)
+![4](https://github.com/ishajoshi251/Uber-Cab-Fare-Analysis/assets/94818351/e5cc0711-f30e-427e-87ed-c4a606602d6a)
+
+
+
 Let's delve into Uber fare analysis using Python and machine learning to gain valuable insights!
